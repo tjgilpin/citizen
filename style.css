@@ -2,6 +2,7 @@
 
 
             html {background: #fff;color: #666;font-size: 100%;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;}
+            body {background: url("/citizen-hands.png") right bottom;}
             a:focus {outline: thin dotted;}
             a {color: #15b2bb;}
             a:active,a:hover {outline: 0;color: #f2739e;}

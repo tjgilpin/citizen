@@ -21,7 +21,8 @@
                 body {background: none;}
                 .first{
                     width: 100% !important;
-                    padding: 0 !important;           
+                    padding: 0 !important; 
+                    min-height: none;          
                 }
 
                 .second {

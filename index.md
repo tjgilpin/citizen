@@ -8,7 +8,7 @@ _we_ are inspired by the idea of citizenship - being conscious, active members o
 
 _we_ enjoy working for organisations, no matter how big or small, who seek to make the world a better place.
 
-_we_ provide bespoke fundraising solutions for causes we love.
+_we_ provide bespoke marketing solutions for causes we love.
 
 _we_ believe in the power of collaboration; working with a talented collective on a common cause.
 

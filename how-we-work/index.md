@@ -9,4 +9,4 @@ Having worked for a variety of marketing agencies on varying sizes of organisati
 * You write your own copy but need help with targeting and increasing gift levels
 * You need help understanding exactly what you need
 
-We have the flexibility to provide bespoke solutions for the causes we love, at a price that suits any budget. We're just doing some housekeeping and updating our website so please get in touch if you'd like to find out more about the diverse solutions we've provided to organisations such as Amnesty, Birmingham Children's Hospital, the Refugee Council, Farm Africa, Barnado's and the London Legacy Development Corporation.
+We have the flexibility to provide bespoke solutions for the causes we love, at a price that suits any budget. We're just doing some housekeeping and updating our website so please get in touch if you'd like to find out more about the diverse solutions we've provided to organisations such as Amnesty International, The Labour Party, Birmingham Children's Hospital, Refugee Council, Farm Africa and the London Legacy Development Corporation.
